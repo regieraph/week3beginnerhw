@@ -1,0 +1,141 @@
+nav {
+  background-color: #FE7E00;
+  height: 100%;
+  margin-top: -16px;
+  margin-right: -10px;
+  margin-left: -10px;
+  box-shadow: 30px;
+  bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+
+}
+
+.container {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+.navbutton a {
+  font-family: Lato, sans-serif;
+  float: right;
+  text-align: right;
+  color: white ;
+  text-decoration: none;
+  margin: 7px;
+  margin-right: 15px;
+  padding-top: 15px;
+  padding-right: 30px;
+  border: 0;
+  content: 10px;
+}
+
+.oj a {
+  text-decoration: none;
+  color: white;
+  font-size: 35px;
+  padding-left: 30px;
+  height: -5px;
+}
+
+
+.orange {
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+}
+
+.juice {
+  font-family: Lato, sans-serif;
+}
+
+header {
+  position: relative;
+  left: 950px;
+  margin-top: 4px;
+}
+
+input {
+  background-color: #EFEFEF;
+  border: none;
+  height: 45px;
+  bottom: 10px;
+  padding: 10px;
+}
+
+button {
+  font-size: 20px;
+  background-color: #EFEFEF;
+  background-size: 20px;
+  border: none;
+  position: absolute;
+  margin: 0;
+  height: 65px;
+  width: 75px;
+}
+
+.imgorange {
+  position: absolute;
+  padding: 0;
+  margin-left: 250px;
+  margin-top: 120px;
+
+}
+
+.parajuice {
+  font-family: Lato, sans-serif;
+  position: absolute;
+  text-decoration: none;
+  margin-top: 80px;
+  margin-left: 50%;
+  font-size: 40px;
+  color: darkorange;
+}
+
+.sup {
+  font-size: 23px;
+}
+
+.unorange {
+  font-weight: bolder;
+
+}
+
+.web {
+  color: blue;
+  font-weight: bolder;
+}
+
+.app {
+  color: blue;
+  font-weight: bolder;
+}
+
+.orangebutton {
+  background-color: #FE7E00;
+  color: white;
+  width: 200px;
+  padding: 10px 20px;
+  font-size: 15px;
+}
+
+.bluebutton {
+  color: white;
+  background-color: lightblue;
+  margin-left: 300px;
+  width: 200px;
+  padding: 20px 20px;
+  font-size: 15px;
+}
+
+.footerblue {
+  position: absolute;
+  height: 50px;
+  padding: 50px;
+  margin-top: 175px;
+  margin-left: -700px;
+  width: 1000%;
+  background-color: lightblue;
+
+}
